@@ -1,5 +1,7 @@
 <template>
-  <Tutorial/>
+  <div>
+    deploy test
+  </div>
 </template>
 
 <script>
